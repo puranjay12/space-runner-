@@ -117,18 +117,7 @@ function draw(){
   coin.velocityX = 0
   
        if(mousePressedOver(reset)) {
-        gameState = 0
-        gameState = 0
-        gameState = 0
-        gameState = 0
-        gameState = 0
-        gameState = 0
-        gameState = 0
-        gameState = 0
-        gameState = 0
-        gameState = 0
-        gameState = 0
-        gameState = 0
+        
         gameState = 0
         reset.visible = false
   reset.addImage(backgroundimg)
